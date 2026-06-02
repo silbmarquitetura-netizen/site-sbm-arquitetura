@@ -1,0 +1,27 @@
+SITE SBM ARQUITETURA - VERSÃO LEVE PARA GITHUB
+
+Esta versão foi otimizada para ficar abaixo de 25MB.
+
+IMPORTANTE:
+Suba no GitHub os arquivos separados:
+- index.html
+- style.css
+- script.js
+- pasta imagens
+
+NÃO suba o arquivo ZIP direto.
+Você deve extrair o ZIP no computador e enviar os arquivos de dentro.
+
+Passo a passo:
+1. Baixe este ZIP.
+2. Clique com o botão direito > Extrair tudo.
+3. Entre na pasta extraída.
+4. No GitHub, vá em Código > Adicionar arquivo > Enviar arquivos.
+5. Arraste:
+   - index.html
+   - style.css
+   - script.js
+   - pasta imagens
+6. Clique em Commit changes.
+7. Aguarde o GitHub Pages atualizar.
+
